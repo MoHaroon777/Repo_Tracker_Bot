@@ -95,8 +95,8 @@ DISCORD_BOT_TOKEN=YOUR_DISCORD_BOT_TOKEN_HERE
 DISCORD_CHANNEL_ID=YOUR_DISCORD_CHANNEL_ID_HERE
 
 # --- GitHub ---
-GITHUB_USERNAME=Moharoon777
-GITHUB_REPO_NAME=Repo_Tracker_Bot
+GITHUB_USERNAME=target_github_username_or_org
+GITHUB_REPO_NAME=target_github_repo_name
 # Optional: Highly recommended for rate limits / required for private repos
 GITHUB_TOKEN=YOUR_GITHUB_PAT_HERE
 
