@@ -6,9 +6,6 @@
 
 A Python-based Discord bot that monitors a specific GitHub repository for new commits and sends informative notifications to a designated Discord channel. Keep your team or yourself updated on the latest code changes automatically!
 
-![Example Notification Placeholder](https://via.placeholder.com/600x200/cccccc/969696.png?text=Example+Discord+Notification+Embed)
-*(Replace the placeholder above with an actual screenshot of the bot's notification embed)*
-
 ---
 
 ## ✨ Features
@@ -56,16 +53,14 @@ Before you begin, ensure you have the following:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/YOUR_GITHUB_USERNAME/repo_tracker_bot.git
+    https://github.com/MoHaroon777/Repo_Tracker_Bot.git
     cd repo_tracker_bot
     ```
-    *(Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username)*
 
 2.  **Install Dependencies:**
     ```bash
     pip install -r requirements.txt
     ```
-    *(Ensure you have created a `requirements.txt` file - see below)*
 
 3.  **Create `requirements.txt` file:**
     Create a file named `requirements.txt` in the project root with the following content:
@@ -100,8 +95,8 @@ DISCORD_BOT_TOKEN=YOUR_DISCORD_BOT_TOKEN_HERE
 DISCORD_CHANNEL_ID=YOUR_DISCORD_CHANNEL_ID_HERE
 
 # --- GitHub ---
-GITHUB_USERNAME=target_github_username_or_org
-GITHUB_REPO_NAME=target_github_repo_name
+GITHUB_USERNAME=Moharoon777
+GITHUB_REPO_NAME=Repo_Tracker_Bot
 # Optional: Highly recommended for rate limits / required for private repos
 GITHUB_TOKEN=YOUR_GITHUB_PAT_HERE
 
