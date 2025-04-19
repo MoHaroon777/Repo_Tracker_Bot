@@ -1,0 +1,13 @@
+2025-04-19 18:54:19,744:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2025-04-19 18:54:19,747:INFO:discord.client: logging in using static token
+2025-04-19 18:54:20,983:INFO:discord.gateway: Shard ID None has connected to Gateway (Session ID: 687f67bd33a60ae494edfd215e2c1179).
+2025-04-19 18:54:22,999:INFO:discord: Logged in as Github Logger (ID: 1178558163486777344)
+2025-04-19 18:54:23,000:INFO:discord: Monitoring GitHub Repo: Moharoon777/Final_Year
+2025-04-19 18:54:23,000:INFO:discord: Notifications will be sent to Channel ID: 1023368825162444841
+2025-04-19 18:54:23,000:INFO:discord: Check interval: 300 seconds
+2025-04-19 18:54:23,000:INFO:discord: ------
+2025-04-19 18:54:23,001:INFO:discord: Bot is ready, starting GitHub commit check loop...
+2025-04-19 18:54:23,002:INFO:discord: Performing initial commit check to set baseline...
+2025-04-19 18:54:23,338:INFO:discord: Baseline commit SHA set to: c4d1fa2
+2025-04-19 18:54:23,339:INFO:discord: Checking for new commits...
+2025-04-19 18:54:23,679:INFO:discord: No new commits found.
