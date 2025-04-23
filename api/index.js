@@ -1,3 +1,4 @@
+import { Analytics } from "@vercel/analytics/react"
 const { Client, GatewayIntentBits } = require('discord.js');
 const { config } = require('dotenv');
 
