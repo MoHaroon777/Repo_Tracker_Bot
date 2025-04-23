@@ -1,13 +1,33 @@
-2025-04-19 18:54:19,744:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
-2025-04-19 18:54:19,747:INFO:discord.client: logging in using static token
-2025-04-19 18:54:20,983:INFO:discord.gateway: Shard ID None has connected to Gateway (Session ID: 687f67bd33a60ae494edfd215e2c1179).
-2025-04-19 18:54:22,999:INFO:discord: Logged in as Github Logger (ID: 1178558163486777344)
-2025-04-19 18:54:23,000:INFO:discord: Monitoring GitHub Repo: Moharoon777/Final_Year
-2025-04-19 18:54:23,000:INFO:discord: Notifications will be sent to Channel ID: 1023368825162444841
-2025-04-19 18:54:23,000:INFO:discord: Check interval: 300 seconds
-2025-04-19 18:54:23,000:INFO:discord: ------
-2025-04-19 18:54:23,001:INFO:discord: Bot is ready, starting GitHub commit check loop...
-2025-04-19 18:54:23,002:INFO:discord: Performing initial commit check to set baseline...
-2025-04-19 18:54:23,338:INFO:discord: Baseline commit SHA set to: c4d1fa2
-2025-04-19 18:54:23,339:INFO:discord: Checking for new commits...
-2025-04-19 18:54:23,679:INFO:discord: No new commits found.
+2025-04-23 23:06:28,346:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2025-04-23 23:06:28,348:INFO:discord.client: logging in using static token
+2025-04-23 23:06:29,523:INFO:discord.gateway: Shard ID None has connected to Gateway (Session ID: 1b08198be2cb3225db8dec2e93b9b351).
+2025-04-23 23:06:31,537:INFO:discord: Logged in as Github Logger (ID: 1178558163486777344)
+2025-04-23 23:06:31,537:INFO:discord: Monitoring GitHub Repo: Moharoon777/Final_Year
+2025-04-23 23:06:31,537:INFO:discord: Notifications will be sent to Channel ID: 1023368825162444841
+2025-04-23 23:06:31,538:INFO:discord: Check interval: 300 seconds
+2025-04-23 23:06:31,538:INFO:discord: ------
+2025-04-23 23:06:31,538:INFO:discord: Bot is ready, starting GitHub commit check loop...
+2025-04-23 23:06:31,538:INFO:discord: Performing initial commit check to set baseline...
+2025-04-23 23:06:31,875:INFO:discord: Baseline commit SHA set to: c4d1fa2
+2025-04-23 23:06:31,876:INFO:discord: Checking for new commits...
+2025-04-23 23:06:32,164:INFO:discord: No new commits found.
+2025-04-23 23:11:31,879:INFO:discord: Checking for new commits...
+2025-04-23 23:11:33,231:INFO:discord: No new commits found.
+2025-04-23 23:16:31,877:INFO:discord: Checking for new commits...
+2025-04-23 23:16:32,217:INFO:discord: New commit detected! SHA: 0ee5bca
+2025-04-23 23:16:32,217:ERROR:discord: Could not find channel with ID: 1023368825162444841. Make sure the ID is correct and the bot is in the server.
+2025-04-23 23:21:31,888:INFO:discord: Checking for new commits...
+2025-04-23 23:21:32,247:INFO:discord: New commit detected! SHA: 0ee5bca
+2025-04-23 23:21:32,248:ERROR:discord: Could not find channel with ID: 1023368825162444841. Make sure the ID is correct and the bot is in the server.
+2025-04-23 23:26:31,885:INFO:discord: Checking for new commits...
+2025-04-23 23:26:32,280:INFO:discord: New commit detected! SHA: 0ee5bca
+2025-04-23 23:26:32,656:INFO:discord: Notification sent to channel 1023368825162444841 for commit 0ee5bca
+2025-04-23 23:27:48,622:INFO:discord.gateway: Shard ID None has successfully RESUMED session 1b08198be2cb3225db8dec2e93b9b351.
+2025-04-23 23:31:31,884:INFO:discord: Checking for new commits...
+2025-04-23 23:31:33,478:INFO:discord: No new commits found.
+2025-04-23 23:36:31,878:INFO:discord: Checking for new commits...
+2025-04-23 23:36:32,697:INFO:discord: No new commits found.
+2025-04-23 23:41:31,885:INFO:discord: Checking for new commits...
+2025-04-23 23:41:32,732:INFO:discord: No new commits found.
+2025-04-23 23:46:31,885:INFO:discord: Checking for new commits...
+2025-04-23 23:46:32,560:INFO:discord: No new commits found.
